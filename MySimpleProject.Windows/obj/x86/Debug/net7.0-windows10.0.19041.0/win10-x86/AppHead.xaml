@@ -1,0 +1,18 @@
+﻿<local:App x:Class="MySimpleProject.AppHead"
+			 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+			 xmlns:wasm="http://platform.uno/wasm"
+			 xmlns:local="using:MySimpleProject"
+			 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 mc:Ignorable="wasm">
+
+	<local:App.Resources>
+		<ResourceDictionary>
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="ms-appx:///MySimpleProject/AppResources.xaml" />
+			</ResourceDictionary.MergedDictionaries>
+		</ResourceDictionary>
+	</local:App.Resources>
+
+</local:App>
+

@@ -1,0 +1,1 @@
+C:\Repos\Exercices\MySimpleProject\MySimpleProject.Windows\MySimpleProject.Windows.csproj;x86

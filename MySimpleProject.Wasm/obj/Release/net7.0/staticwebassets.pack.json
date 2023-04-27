@@ -1,0 +1,1437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\AppManifest.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\AppManifest.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\AppManifest.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\AppManifest.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Fonts.css",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Fonts.css"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Fonts.css.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Fonts.css.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject.Wasm.exe",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject.Wasm.exe"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject.uprimarker",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject.uprimarker"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-100.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-100.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-125.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-125.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-150.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-150.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-200.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-200.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-300.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-300.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-400.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.scale-400.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.svg",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\Icons\\back.svg"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\SharedAssets.md",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\MySimpleProject\\Assets\\SharedAssets.md"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Fluent\\Fonts\\uno-fluentui-assets.ttf",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Fluent\\Fonts\\uno-fluentui-assets.ttf"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Fluent\\Fonts\\uno-fluentui-assets.ttf.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Fluent\\Fonts\\uno-fluentui-assets.ttf.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Light.ttf.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Light.ttf.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Medium.ttf.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Medium.ttf.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Regular.ttf.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.Fonts.Roboto\\Fonts\\Roboto-Regular.ttf.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.css",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.css"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.css.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.css.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\Uno.UI.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\corebindings.c",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\corebindings.c"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet-legacy.d.ts",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet-legacy.d.ts"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.d.ts",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.d.ts"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.js.symbols",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.js.symbols"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.timezones.blat",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.timezones.blat"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.wasm",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.wasm"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.wasm.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\dotnet.wasm.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\driver.c",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\driver.c"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-compile.rsp",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-compile.rsp"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-default.rsp",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-default.rsp"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-link.rsp",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-link.rsp"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-props.json",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-props.json"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-props.json.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\emcc-props.json.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\gc-common.h",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\gc-common.h"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-128.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-128.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-16.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-16.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-32.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-32.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-512.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\iconapp-512.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt.dat",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt.dat"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt.dat.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt.dat.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_CJK.dat",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_CJK.dat"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_CJK.dat.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_CJK.dat.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_EFIGS.dat",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_EFIGS.dat"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_EFIGS.dat.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_EFIGS.dat.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_no_CJK.dat",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_no_CJK.dat"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_no_CJK.dat.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\icudt_no_CJK.dat.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\jquery-pep.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\jquery-pep.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\jquery-pep.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\jquery-pep.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\lottie.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\lottie.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\lottie.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\lottie.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommonServiceLocator.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommonServiceLocator.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommonServiceLocator.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommonServiceLocator.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommunityToolkit.Mvvm.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommunityToolkit.Mvvm.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommunityToolkit.Mvvm.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommunityToolkit.Mvvm.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommunityToolkit.Mvvm.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\CommunityToolkit.Mvvm.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Abstractions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Abstractions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Abstractions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Binder.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Binder.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Binder.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Binder.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.CommandLine.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.CommandLine.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.CommandLine.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.CommandLine.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.EnvironmentVariables.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.EnvironmentVariables.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.EnvironmentVariables.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.EnvironmentVariables.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.FileExtensions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.FileExtensions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.FileExtensions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.FileExtensions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Json.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Json.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Json.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.Json.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Configuration.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.Abstractions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.Abstractions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.Abstractions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.DependencyInjection.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Abstractions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Abstractions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Abstractions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Physical.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Physical.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Physical.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileProviders.Physical.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileSystemGlobbing.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileSystemGlobbing.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileSystemGlobbing.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.FileSystemGlobbing.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.Abstractions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.Abstractions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.Abstractions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Hosting.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Localization.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Localization.Abstractions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Localization.Abstractions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Localization.Abstractions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Abstractions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Abstractions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Abstractions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Configuration.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Configuration.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Configuration.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.Configuration.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Logging.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.ConfigurationExtensions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.ConfigurationExtensions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.ConfigurationExtensions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.ConfigurationExtensions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Options.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Primitives.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Primitives.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Microsoft.Extensions.Primitives.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.Wasm.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.Wasm.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.Wasm.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.Wasm.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\MySimpleProject.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Concurrent.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Concurrent.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Concurrent.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Concurrent.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Concurrent.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Concurrent.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Immutable.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Immutable.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Immutable.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Immutable.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Immutable.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Immutable.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.NonGeneric.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.NonGeneric.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.NonGeneric.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.NonGeneric.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.NonGeneric.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.NonGeneric.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Specialized.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Specialized.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Specialized.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Specialized.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Specialized.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.Specialized.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Collections.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.Primitives.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.Primitives.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.Primitives.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.Primitives.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.TypeConverter.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.TypeConverter.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.TypeConverter.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.TypeConverter.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.TypeConverter.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.TypeConverter.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ComponentModel.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Console.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Console.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Console.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Console.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Console.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Console.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.Primitives.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.Primitives.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.Primitives.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.Primitives.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Drawing.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.IO.FileSystem.Watcher.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.IO.FileSystem.Watcher.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.IO.FileSystem.Watcher.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.IO.FileSystem.Watcher.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.IO.FileSystem.Watcher.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.IO.FileSystem.Watcher.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.Expressions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.Expressions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.Expressions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.Expressions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.Expressions.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.Expressions.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Linq.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Memory.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Memory.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Memory.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Memory.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Memory.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Memory.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Http.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Http.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Http.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Http.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Http.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Http.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Primitives.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Primitives.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Primitives.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Primitives.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Security.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Security.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Security.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Security.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Security.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Net.Security.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ObjectModel.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ObjectModel.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ObjectModel.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ObjectModel.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ObjectModel.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.ObjectModel.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.CoreLib.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.CoreLib.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.CoreLib.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.CoreLib.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.CoreLib.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.CoreLib.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.Uri.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.Uri.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.Uri.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.Uri.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.Uri.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Private.Uri.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Runtime.InteropServices.JavaScript.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Runtime.InteropServices.JavaScript.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Runtime.InteropServices.JavaScript.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Runtime.InteropServices.JavaScript.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Runtime.InteropServices.JavaScript.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Runtime.InteropServices.JavaScript.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Security.Cryptography.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Security.Cryptography.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Security.Cryptography.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Security.Cryptography.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Security.Cryptography.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Security.Cryptography.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Encodings.Web.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Encodings.Web.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Encodings.Web.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Encodings.Web.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Encodings.Web.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Encodings.Web.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Json.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Json.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Json.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Json.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Json.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.Json.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.RegularExpressions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.RegularExpressions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.RegularExpressions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.RegularExpressions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.RegularExpressions.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Text.RegularExpressions.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Web.HttpUtility.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Web.HttpUtility.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Web.HttpUtility.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Web.HttpUtility.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Web.HttpUtility.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.Web.HttpUtility.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\System.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Collections.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Collections.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Collections.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Collections.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Collections.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Collections.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Disposables.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Disposables.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Disposables.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Disposables.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Disposables.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Disposables.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.Singleton.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.Singleton.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.Singleton.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.Singleton.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.Singleton.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.Singleton.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.Logging.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Core.Extensions.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Diagnostics.Eventing.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Diagnostics.Eventing.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Diagnostics.Eventing.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Diagnostics.Eventing.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Diagnostics.Eventing.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Diagnostics.Eventing.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Authentication.UI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Authentication.UI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Authentication.UI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Authentication.UI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Authentication.UI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Authentication.UI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Configuration.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Configuration.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Configuration.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Configuration.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Configuration.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Configuration.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.UI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.UI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.UI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.UI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.UI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.UI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Core.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.WinUI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.WinUI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.WinUI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.WinUI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.WinUI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.WinUI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Hosting.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WebAssembly.Console.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WebAssembly.Console.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WebAssembly.Console.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WebAssembly.Console.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WinUI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WinUI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WinUI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WinUI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WinUI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Logging.WinUI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.Toolkit.UI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.Toolkit.UI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.Toolkit.UI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.Toolkit.UI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.Toolkit.UI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.Toolkit.UI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.UI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.UI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.UI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.UI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.UI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.UI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Navigation.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Serialization.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Serialization.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Serialization.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Serialization.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Serialization.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Serialization.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.UI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.UI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.UI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.UI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.UI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.UI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Storage.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.UI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.UI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.UI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.UI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.UI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.UI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Extensions.Toolkit.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.dll.config",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.dll.config"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Logging.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Runtime.WebAssembly.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Runtime.WebAssembly.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Runtime.WebAssembly.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Runtime.WebAssembly.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Runtime.WebAssembly.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.Runtime.WebAssembly.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Foundation.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Material.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Material.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Material.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Material.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Material.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Material.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.Material.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.Material.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.Material.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.Material.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.Material.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.Material.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.WinUI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Toolkit.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.dll.config",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.dll.config"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Composition.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Composition.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Composition.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Composition.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Composition.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Composition.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Dispatching.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Dispatching.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Dispatching.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Dispatching.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Dispatching.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Dispatching.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.FluentTheme.v2.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.FluentTheme.v2.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.FluentTheme.v2.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.FluentTheme.v2.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.FluentTheme.v2.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.FluentTheme.v2.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.dll.config",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.dll.config"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Lottie.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Runtime.WebAssembly.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Runtime.WebAssembly.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Runtime.WebAssembly.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Runtime.WebAssembly.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Runtime.WebAssembly.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Runtime.WebAssembly.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Toolkit.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Toolkit.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Toolkit.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Toolkit.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Toolkit.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.Toolkit.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.UI.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Wasm.TimezoneData.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Wasm.TimezoneData.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Wasm.TimezoneData.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Wasm.TimezoneData.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Wasm.TimezoneData.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.Wasm.TimezoneData.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\Uno.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\netstandard.clr",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\netstandard.clr"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\netstandard.clr.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\netstandard.clr.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\netstandard.pdb",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\managed\\netstandard.pdb"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\mono-config.json",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\mono-config.json"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\mono-config.json.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\mono-config.json.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\normalize.css",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\normalize.css"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\normalize.css.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\normalize.css.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\package.json",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\package.json"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\package.json.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\package.json.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pal_random.lib.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pal_random.lib.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pal_random.lib.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pal_random.lib.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pinvoke.c",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pinvoke.c"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pinvoke.h",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\pinvoke.h"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\require.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\require.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\require.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\require.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\runtime.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\runtime.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\runtime.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\runtime.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\setImmediate.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\setImmediate.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\setImmediate.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\setImmediate.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-100.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-100.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-125.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-125.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-150.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-150.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-200.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-200.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-300.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-300.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-400.png",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\splash_screen.scale-400.png"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-assets.txt",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-assets.txt"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-assets.txt.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-assets.txt.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.css",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.css"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.css.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.css.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-bootstrap.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-config.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-config.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-config.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-config.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-lottie.js",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-lottie.js"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-lottie.js.br",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\uno-lottie.js.br"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\wasm-config.h",
+      "PackagePath": "staticwebassets\\package_9d2ce732d6832e21a5fadf9b26952398e9b6fc1a\\wasm-config.h"
+    },
+    {
+      "Id": "C:\\Repos\\Exercices\\MySimpleProject\\MySimpleProject.Wasm\\bin\\Release\\net7.0\\dist\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.MySimpleProject.Wasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.MySimpleProject.Wasm.props",
+      "PackagePath": "build\\MySimpleProject.Wasm.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MySimpleProject.Wasm.props",
+      "PackagePath": "buildMultiTargeting\\MySimpleProject.Wasm.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.MySimpleProject.Wasm.props",
+      "PackagePath": "buildTransitive\\MySimpleProject.Wasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

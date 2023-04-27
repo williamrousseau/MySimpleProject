@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MySimpleProject</name>
+    </assembly>
+    <members>
+        <member name="M:MySimpleProject.Presentation.MainPage.#ctor(System.IntPtr,Android.Runtime.JniHandleOwnership)">
+            <summary>
+            Native constructor, do not use explicitly.
+            </summary>
+            <remarks>
+            Used by the Xamarin Runtime to materialize native 
+            objects that may have been collected in the managed world.
+            </remarks>
+        </member>
+        <member name="P:MySimpleProject.Presentation.MainViewModel.Name">
+            <inheritdoc cref="F:MySimpleProject.Presentation.MainViewModel.name"/>
+        </member>
+        <member name="M:MySimpleProject.Presentation.SecondPage.#ctor(System.IntPtr,Android.Runtime.JniHandleOwnership)">
+            <summary>
+            Native constructor, do not use explicitly.
+            </summary>
+            <remarks>
+            Used by the Xamarin Runtime to materialize native 
+            objects that may have been collected in the managed world.
+            </remarks>
+        </member>
+        <member name="M:MySimpleProject.Presentation.Shell.#ctor(System.IntPtr,Android.Runtime.JniHandleOwnership)">
+            <summary>
+            Native constructor, do not use explicitly.
+            </summary>
+            <remarks>
+            Used by the Xamarin Runtime to materialize native 
+            objects that may have been collected in the managed world.
+            </remarks>
+        </member>
+        <member name="T:MySimpleProject.GlobalStaticResources">
+            <summary>
+            Contains all the static resources defined for the application
+            </summary>
+        </member>
+    </members>
+</doc>

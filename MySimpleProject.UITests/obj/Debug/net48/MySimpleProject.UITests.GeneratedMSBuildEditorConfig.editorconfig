@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MySimpleProject.UITests
+build_property.ProjectDir = C:\Repos\Exercices\MySimpleProject\MySimpleProject.UITests\
